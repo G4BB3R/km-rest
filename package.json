@@ -1,0 +1,8 @@
+{
+  "name": "km-rest",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/G4BB3R/km-rest",
+  "author": "Gabriel Torrecillas Sartori <gabriel.sartori04@gmail.com>",
+  "license": "MIT"
+}
